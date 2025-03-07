@@ -79,4 +79,4 @@ Make sure you have the following installed on your system:
 For any queries or improvements, feel free to reach out or contribute to the project!
 
 ---
-**🔗 GitHub Repository:** [https://github.com/Rutu-TChaugale/portfolio.git]
+**🔗 GitHub Repository:** [https://github.com/Rutu-TChaugale/bank-management-system-using-array.git]
